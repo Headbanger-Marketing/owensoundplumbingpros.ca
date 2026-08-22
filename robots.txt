@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://owensoundplumbingpros.ca/sitemap-index.xml

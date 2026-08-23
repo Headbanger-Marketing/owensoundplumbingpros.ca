@@ -1,2 +1,25 @@
 # Owen Sound Plumbing Pros
-HVAC services in Ontario.
+
+> Owen Sound Plumbing Pros is a local HVAC company serving Owen Sound, Grey, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 409-5669  |  Email: contact@owensoundplumbingpros.ca  |  Website: https://owensoundplumbingpros.ca
+
+## Key pages
+
+- [Home](https://owensoundplumbingpros.ca/): Owen Sound Plumbing Pros homepage with service overview and FAQ
+- [About](https://owensoundplumbingpros.ca/about/): About the company and service area
+- [Contact](https://owensoundplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://owensoundplumbingpros.ca/services/water-heaters/): Water Heaters in Owen Sound, Ontario
+- [Drain Cleaning](https://owensoundplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Owen Sound, Ontario
+- [Repiping](https://owensoundplumbingpros.ca/services/repiping/): Repiping in Owen Sound, Ontario
+- [Fixtures & Toilets](https://owensoundplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Owen Sound, Ontario
+- [Leak Detection & Repair](https://owensoundplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Owen Sound, Ontario
+- [Sump Pumps & Backwater](https://owensoundplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Owen Sound, Ontario
+- [Water Softeners & Filtration](https://owensoundplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Owen Sound, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Owen Sound are answered on the homepage.
